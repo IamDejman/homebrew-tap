@@ -1,6 +1,6 @@
 class AiWrappedYear < Formula
   desc "Your year with AI coding tools, as a story you can share"
-  homepage "https://iamdejman.github.io/ai-wrapped-year/"
+  homepage "https://aiyearwrapped.com/"
   url "https://registry.npmjs.org/ai-wrapped-year/-/ai-wrapped-year-0.3.0.tgz"
   sha256 "42774e1f1d5e4663409a622431edf35dc4d2b4885f556a404333e1634c93333e"
   license "MIT"
